@@ -1,5 +1,10 @@
+"""Constants for the SMOS integration."""
+
 # Integration domain name
 DOMAIN = "smos"
+
+# Configuration keys
+CONF_TEXT = "text"
 
 # Manufacturer and model information
 MANUFACTURER = "Marstek"

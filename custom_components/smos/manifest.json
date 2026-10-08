@@ -1,7 +1,7 @@
 {
   "domain": "smos",
   "name": "SMOS",
-  "version": "2026.10.0",
+  "version": "0.0.1-alpha",
   "config_flow": true,
   "documentation": "https://github.com/raver1972/SMOS",
   "iot_class": "local_polling",
